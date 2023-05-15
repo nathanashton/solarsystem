@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - TrackingObject
+  - Actors
+  - Mercury
+  - Venus
+  - MercuryOrbit
   layers:
   - Default
   - TransparentFX
@@ -11,16 +16,16 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Earth
+  - Moon
+  - Mercury
+  - Venus
+  - Saturn
+  - Mars
+  - Jupiter
+  - Neptune
+  - Uranus
+  - Pluto
   - 
   - 
   - 
